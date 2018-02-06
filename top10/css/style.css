@@ -1,0 +1,29 @@
+body{
+		background-color: #ADD4D6;
+}
+h1{
+	font-size:50px;
+	text-align:center;
+	color:#514C7C;
+}
+h2{
+	color:#701C36;
+	font-size:20px;
+	background-color: ;
+	direction:ltr;
+	text-align:left;
+}
+h3{
+	color: #514C7C; 
+	font-size: 30px;
+	background-color: ;
+	direction:ltr;
+	text-align:left;
+}
+img{
+	width:15%;
+	border-width:3px;
+	border-style:solid;
+	border-color:#701C36;
+	
+}
