@@ -1,0 +1,23 @@
+body{
+	background-color: #708d81;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align:center;
+}
+h3{
+	text-align:center;
+}
+.wrapper{
+	background-color: #a6d3a0;
+	margin: 0 auto;
+	max-width: 90%;
+	border:8px;
+	border-style: solid;
+	border-color: #f4d58d;
+}
+.hobby{
+	float:right;
+}
