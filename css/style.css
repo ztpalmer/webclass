@@ -13,11 +13,25 @@ h3{
 .wrapper{
 	background-color: #a6d3a0;
 	margin: 0 auto;
-	max-width: 90%;
+	max-width: 70%;
 	border:8px;
 	border-style: solid;
 	border-color: #f4d58d;
 }
 .hobby{
 	float:right;
+}
+img{
+	float: left;
+	width:18%;
+	border-width:2px;
+	border-style:solid;
+	border-color:;
+}
+.clearfix:after{
+	visibility:hidden;
+	display:block;
+	content:"";
+	clear:both;
+	height:0;
 }
